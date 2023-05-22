@@ -14,3 +14,10 @@
   background-color:blue;
   color:white; 
 }
+p{
+	text-align:center;
+	color:aqua;
+}
+button{
+	margin-left:300px;
+}
